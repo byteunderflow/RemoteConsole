@@ -1,7 +1,7 @@
 # Description
 A Rcon implementation for Minecraft servers with color code and attribute translation.
 
-# Example usage
+# Usage
 ` java -jar rcon.jar address port password `
 
 # Dependencies
