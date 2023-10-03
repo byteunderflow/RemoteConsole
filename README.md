@@ -2,7 +2,7 @@
 A Rcon implementation for Minecraft servers with color code and attribute translation.
 
 # Example usage
-` java -jar rcon.jar ` *address* *port* *password*
+` java -jar rcon.jar address port password `
 
 # Dependencies
 - **[rkon-core](https://github.com/kr5ch/rkon-core)** (version 1.1.2): Used for Rcon connection to Minecraft servers.
